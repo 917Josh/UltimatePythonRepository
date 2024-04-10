@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 print("########## 2.1.1 ##########")
 word = input("Please type in a word:")
 length = len(word)
@@ -47,3 +48,16 @@ elif word2 < word1:
 else:
     print (word2, "comes alpahbetically last.")
     
+=======
+# print("########## 2.2.1 ##########")
+
+# print("########## 2.2.2 ##########")
+
+# print("########## 2.2.3 ##########")
+
+# print("########## 2.2.4 ##########")
+
+# print("########## 2.2.5 ##########")
+
+# print("########## 2.2.6 ##########")
+>>>>>>> ed69335c68271aedf58261acbb53bcb1bf86fca6
