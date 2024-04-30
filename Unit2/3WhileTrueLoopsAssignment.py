@@ -62,7 +62,6 @@ while True:
     story = story + " " + word
     lastword = word
 print(story)
-
 # ========== 2.3.9 ==========
 count = 0
 sum = 0
