@@ -1,4 +1,5 @@
 # # slicing
+#           0123456
 original = "example"
 
 # single letter
@@ -32,7 +33,7 @@ original = "example"
 original = "example"
 # print( original.find("m") )
 # print( original.find("s") )
-print( original.find("amp") )
+# print( original.find("amp") )
 
 
 
